@@ -30,7 +30,7 @@
             $m = $_POST['mai'];
             $t = $_POST['tel'];
             
-            $aquien = "javicolist0@gmail.com";
+            $aquien = "aventurerossinlimite@gmail.com";
             $asunto = "Apadrinaron a un niño";
             $mensaje = $n.' '.$a.' con el e-mail '.$m.'.'."\r\n".' Ha decidido adoptar a  '.($_SESSION['nombrecillo'])."\r\n"."Su número de contacto es ".$t;
             $aquien2 = $m;
